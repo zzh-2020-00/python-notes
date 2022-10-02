@@ -11,7 +11,7 @@ It can make Python learning easier.
     - Colorama - Make your output more beautiful
         - [Chinese](CN-Colorful_output.ipynb)
         - [English](EN-Colorful_output.ipynb)
-- ## Custom Functions ans Classes
+- ## Custom Functions and Classes
     - Timer - Easier Timer Function
         - [Chinese](CN-Timer.ipynb)
         - [English](EN-Timer.ipynb)
