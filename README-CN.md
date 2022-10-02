@@ -13,3 +13,7 @@
     - Timer - 更加方便的计时功能
         - [Chinese](CN-Timer.ipynb)
         - [English](EN-Timer.ipynb)
+- ## Bug
+    - Top 10 Bugs - 为你总结Python最容易出现的10个bug
+        - [Chinese](CN-Top10-Bugs.ipynb)
+        - [English](EN-Top10-Bugs.ipynb)
