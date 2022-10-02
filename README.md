@@ -16,7 +16,7 @@ It can make Python learning easier.
     - Timer - Easier Timer Function
         - [Chinese](CN-Timer.ipynb)
         - [English](EN-Timer.ipynb)
-- ## Bug
+- ## Bugs
     - Top 10 Bugs - The 10 bugs that you may make
         - [Chinese](CN-Top10-Bugs.ipynb)
         - [English](EN-Top10-Bugs.ipynb)
