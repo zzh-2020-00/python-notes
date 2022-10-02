@@ -1,4 +1,5 @@
 # Python Notes
+[Go to Chinese README](README-CN.md)
 When learning *Python*, there are many questions.     
 This project has many features, third-party packages, custom functions and classes, some bugs and so on.     
 It can make Python learning easier.
